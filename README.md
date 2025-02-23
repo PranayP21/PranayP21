@@ -53,8 +53,6 @@ hobbies: ["Gaming", "Football", "Hockey", "Movies", "Anime"]
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-![Snake animation](https://github.com/PranayP21/PranayP21/blob/main/.github/workflows/main.yml)
-
 
 
 
