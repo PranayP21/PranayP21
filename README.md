@@ -53,6 +53,9 @@ hobbies: ["Gaming", "Football", "Hockey", "Movies", "Anime"]
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-
+<div align="center">
+  
+  ![snake gif](https://github.com/PranayP21/PranayP21/blob/output/github-snake-dark.svg)
+</div>
 
 
