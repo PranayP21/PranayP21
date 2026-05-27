@@ -30,8 +30,10 @@ fields_of_interests:
 technical_background:
 [
   - "Certification – Certified in Cyber Security (CC) from ISC2"  
-  - "Certification – Security, Compliance, and Identity Fundamentals from Microsoft"  
-  - "Certification – AWS Cloud Practitioner Essentials from AWS "  
+  - "Certification – Security, Compliance, and Identity Fundamentals from Microsoft (SC-900)"  
+  - "Certification – AWS Cloud Practitioner Essentials from AWS "
+  - "Certification – ITIL Foundation v5"
+  - "Certification –  Azure Fundamentals AZ-900: Microsoft"
 ]
 currently_learning: ["CPTS, OSCP and CCNA"]  
 2025 Goals: ["Earn my Certification in CPTS from Hack the Box and the OSCP"]  
