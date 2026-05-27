@@ -6,7 +6,6 @@
 </p>
 
 
-
 # A Little Bit About Me and My Interests  
 
 ```yaml
@@ -54,8 +53,9 @@ hobbies: ["Gaming", "Football", "Hockey", "Movies", "Anime"]
 </p>
 
 <div align="center">
-  
-  ![snake gif](https://github.com/PranayP21/PranayP21/blob/output/github-snake-dark.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PranayP21/PranayP21/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PranayP21/PranayP21/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/PranayP21/PranayP21/output/github-snake.svg">
+  </picture>
 </div>
-
-
