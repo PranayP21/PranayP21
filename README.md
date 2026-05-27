@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=2d046c&text=Hello%20There!&animation=fadeIn&fontColor=e3dfe9"/>
 </p> 
 <p align="center">
-  <img width="480" height="209" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpuYjR6YW9ncjFhbTV4NnJxc2FyYzQyZTFrbGNhbWg1dzF0a2d0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OV1bLOIWwIXRxpXlN/giphy.gif">
+  <img width="480" height="209" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHY3Y2FzNnh1c2NrbWZsNzV3bjFsandwbW51MTNlc3V0NG9nYTA3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3nyIj1d1igD4SGhVvu/giphy.gif" alt="Animated profile GIF">
 </p>
 
 
