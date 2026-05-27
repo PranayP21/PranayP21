@@ -36,7 +36,7 @@ technical_background:
   - "Certification –  Azure Fundamentals AZ-900: Microsoft"
 ]
 currently_learning: ["CPTS, OSCP and CCNA"]  
-2025 Goals: ["Earn my Certification in CPTS from Hack the Box and the OSCP"]  
+2026 Goals: ["Earn my Certification in CPTS from Hack the Box"]  
 hobbies: ["Gaming", "Football", "Hockey", "Movies", "Anime"]
 ```
 
